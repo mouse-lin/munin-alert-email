@@ -1,3 +1,6 @@
+Mail
+---
+
 ### Send munin alert email
 ---
 
