@@ -23,6 +23,6 @@ Put this script[mail] somewhere on your Munin master and make it executable. The
 
 ```
 Replace [script] with the full path to this mail script(yes, it supposed to be there twice).
-Restart munin-node
+
     
     sudo service munin-node restart
